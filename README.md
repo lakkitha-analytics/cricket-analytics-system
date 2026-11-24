@@ -1,25 +1,30 @@
 # 🏏 Cricket Analytics System
 
-A Python-based Cricket Analytics project designed to analyze cricket batting performance using data analysis and visualization.
+A Python-based Cricket Analytics project focused on analyzing cricket performance using data analysis and visualization.
 
 ## 📌 Project Overview
 
-This project focuses on analyzing cricket player statistics using Python. It processes batting data and calculates important performance metrics to compare players and identify top performers.
+The Cricket Analytics System is a beginner-friendly data science project developed to explore cricket statistics and identify player performance patterns.
+
+The project uses Python and Pandas to analyze batting statistics and generate meaningful insights.
 
 ## 🎯 Project Objectives
 
 - Analyze individual batting performances.
-- Calculate batting averages and strike rates.
+- Calculate batting averages.
+- Calculate batting strike rates.
 - Identify the highest run scorer.
-- Compare player statistics.
-- Develop data visualization skills.
+- Compare player performances using statistical data.
 
 ## 🛠️ Technologies Used
 
-- Python
-- Pandas
-- Matplotlib
-- CSV
+| Technology | Purpose |
+|---|---|
+| Python | Programming |
+| Pandas | Data analysis |
+| Matplotlib | Data visualization |
+| CSV | Data storage |
+| Git & GitHub | Version control |
 
 ## 📂 Project Structure
 
@@ -40,46 +45,59 @@ cricket-analytics-system/
 
 ## 📊 Current Features
 
-- Load cricket batting data using Pandas.
-- Calculate batting averages.
-- Calculate batting strike rates.
-- Display player performance statistics.
-- Identify the highest run scorer.
-- Display total runs.
+- Batting performance analysis
+- Batting average calculation
+- Strike rate calculation
+- Highest run scorer identification
+- Player performance comparison
 
-## 🚀 How to Run
+## 💻 Installation and Setup
 
-**1. Clone the repository**
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/lakkitha-analytics/cricket-analytics-system.git
 ```
 
-**2. Navigate to the project folder**
+### 2. Open the project folder
 
 ```bash
 cd cricket-analytics-system
 ```
 
-**3. Install dependencies**
+### 3. Install the required libraries
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
-**4. Run the project**
+### 4. Run the project
 
 ```bash
 python main.py
 ```
 
-## 🔮 Future Improvements
+## 📈 Sample Analysis Results
 
-- Bowling performance analysis.
-- Match statistics analysis.
-- Player comparison dashboards.
-- Data visualization charts.
-- Cricket match prediction using Machine Learning.
+The current sample dataset produces results such as:
+
+| Player | Runs | Batting Average | Strike Rate |
+|---|---:|---:|---:|
+| Babar Azam | 370 | 46.25 | 123.33 |
+| Travis Head | 410 | 45.56 | 164.00 |
+
+**Highest Run Scorer:** Suryakumar Yadav  
+**Total Runs:** 450
+
+*These are sample project results, not verified real-world statistics.*
+
+## 🚀 Future Improvements
+
+- Bowling performance analysis
+- Player comparison dashboards
+- Cricket data visualization charts
+- Match performance analysis
+- Cricket match prediction using Machine Learning
 
 ## 👨‍💻 Author
 
@@ -87,9 +105,10 @@ python main.py
 
 Undergraduate | BSc Data Science & Business Analytics
 
-GitHub: [lakkitha-analytics](https://github.com/lakkitha-analytics)
+General Sir John Kotelawala Defence University (KDU)
 
-LinkedIn: [Lakkitha Athulya](https://www.linkedin.com/in/lakkitha-athulya-768a5a365)
+- GitHub: [lakkitha-analytics](https://github.com/lakkitha-analytics)
+- LinkedIn: [Lakkitha Athulya](https://www.linkedin.com/in/lakkitha-athulya-768a5a365)
 
 ---
 
